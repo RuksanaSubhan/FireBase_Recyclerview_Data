@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireBase_Recyclerview_Data</string>
+    <string-array name="state">
+        <item>--Select State--</item>
+        <item>Karnataka</item>
+        <item>Telangana</item>
+        <item>Andhra Pradesh</item>
+        <item>Kerala</item>
+        <item>Goa</item>
+        <item>Maharashtra</item>
+
+    </string-array>
+</resources>
